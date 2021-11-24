@@ -1,3 +1,6 @@
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/esharet/meta-openembedded.git
+[submodule "poky"]
+	path = poky
+	url = https://github.com/esharet/poky.git
