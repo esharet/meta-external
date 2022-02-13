@@ -4,3 +4,12 @@
 [submodule "poky"]
 	path = poky
 	url = https://github.com/esharet/poky.git
+[submodule "meta-intel-aero"]
+	path = meta-intel-aero
+	url = https://github.com/esharet/meta-intel-aero.git
+[submodule "meta-python2"]
+	path = meta-python2
+	url = git://git.openembedded.org/meta-python2
+[submodule "meta-mavlink"]
+	path = meta-mavlink
+	url = https://github.com/esharet/meta-mavlink.git
